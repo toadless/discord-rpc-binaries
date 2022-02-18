@@ -17,3 +17,6 @@
 build/
 .gradle
 gradle.properties
+
+#system
+.DS_STORE
