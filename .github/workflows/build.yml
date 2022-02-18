@@ -37,8 +37,8 @@ jobs:
         uses: marvinpinto/action-automatic-releases@latest
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          automatic_release_tag: "1.0.0"
+          automatic_release_tag: "1.0.1"
           prerelease: false
           title: "discord-rpc-binaries: Latest!"
           files: |
-            build/libs/discord-rpc-binaries-1.0.0.jar
+            build/libs/discord-rpc-binaries-1.0.1.jar
