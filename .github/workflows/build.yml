@@ -41,4 +41,4 @@ jobs:
           prerelease: false
           title: "discord-rpc-binaries: Latest!"
           files: |
-            build/libs/discord-rpc-binaries-1.0.jar
+            build/libs/discord-rpc-binaries-1.0.0.jar
